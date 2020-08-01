@@ -1,6 +1,8 @@
 # Sudoku_Solver
 
 Sudoku-Game-Solution-using-Graph-Coloring
+
+##
 For Windows
 
 Go to you python installation folder python > Scripts and run the following commands
